@@ -1,0 +1,76 @@
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\cohouse\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\cohouse\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\cohouse\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\cohouse\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\cohouse\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Projects\Pluralsight Demo\trunk\Clean Code\DataAccessLayer\bin\Debug\Database.sdf
+C:\Projects\Pluralsight Demo\trunk\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Projects\Pluralsight Demo\trunk\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Projects\Pluralsight Demo\trunk\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Projects\Pluralsight Demo\trunk\Clean Code\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Projects\Pluralsight Demo\trunk\Clean Code\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Projects\Pluralsight Demo\trunk\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Projects\Pluralsight Demo\trunk\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Projects\Pluralsight Demo\trunk\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Projects\Pluralsight Demo\trunk\Clean Code\DataAccessLayer\bin\Debug\BusinessLayer.dll
+C:\Projects\Pluralsight Demo\trunk\Clean Code\DataAccessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\DataAccessLayer\bin\Debug\Database.sdf
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\DataAccessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\DataAccessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\DataAccessLayer\bin\Debug\Database.sdf
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\DataAccessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\DataAccessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\DataAccessLayer\bin\Debug\Database.sdf
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\DataAccessLayer\bin\Debug\BusinessLayer.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\DataAccessLayer\bin\Debug\BusinessLayer.pdb
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\DataAccessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\DataAccessLayer\bin\Debug\System.Web.Helpers.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\DataAccessLayer\bin\Debug\System.Web.Mvc.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\DataAccessLayer\bin\Debug\System.Web.Razor.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\DataAccessLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\DataAccessLayer\bin\Debug\System.Web.WebPages.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\DataAccessLayer\bin\Debug\System.Web.WebPages.Razor.dll

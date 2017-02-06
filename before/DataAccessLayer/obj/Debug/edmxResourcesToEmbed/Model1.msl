@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DatabaseModelStoreContainer" CdmEntityContainer="DatabaseEntities">
+    <EntitySetMapping Name="Sessions">
+      <EntityTypeMapping TypeName="DatabaseModel.Session">
+        <MappingFragment StoreEntitySet="Session">
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="SessionId" ColumnName="SessionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Speakers">
+      <EntityTypeMapping TypeName="DatabaseModel.Speaker">
+        <MappingFragment StoreEntitySet="Speaker">
+          <ScalarProperty Name="RegistrationDate" ColumnName="RegistrationDate" />
+          <ScalarProperty Name="Employer" ColumnName="Employer" />
+          <ScalarProperty Name="BlogUrl" ColumnName="BlogUrl" />
+          <ScalarProperty Name="YearsExperience" ColumnName="YearsExperience" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="SpeakerId" ColumnName="SpeakerId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SpeakerCertifications">
+      <EntityTypeMapping TypeName="DatabaseModel.SpeakerCertification">
+        <MappingFragment StoreEntitySet="SpeakerCertification">
+          <ScalarProperty Name="Certification" ColumnName="Certification" />
+          <ScalarProperty Name="SpeakerCertificationId" ColumnName="SpeakerCertificationId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DatabaseModel.Store" Alias="Self" Provider="System.Data.SqlServerCe.4.0" ProviderManifestToken="4.0" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="DatabaseModelStoreContainer">
+    <EntitySet Name="Session" EntityType="DatabaseModel.Store.Session" store:Type="Tables" />
+    <EntitySet Name="Speaker" EntityType="DatabaseModel.Store.Speaker" store:Type="Tables" />
+    <EntitySet Name="SpeakerCertification" EntityType="DatabaseModel.Store.SpeakerCertification" store:Type="Tables" />
+  </EntityContainer>
+  <EntityType Name="Session">
+    <Key>
+      <PropertyRef Name="SessionId" />
+    </Key>
+    <Property Name="SessionId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="nvarchar" MaxLength="100" />
+    <Property Name="Description" Type="nvarchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="Speaker">
+    <Key>
+      <PropertyRef Name="SpeakerId" />
+    </Key>
+    <Property Name="SpeakerId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="100" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="100" />
+    <Property Name="Email" Type="nvarchar" MaxLength="100" />
+    <Property Name="YearsExperience" Type="nvarchar" MaxLength="100" />
+    <Property Name="BlogUrl" Type="nvarchar" MaxLength="100" />
+    <Property Name="Employer" Type="nvarchar" MaxLength="100" />
+    <Property Name="RegistrationDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="SpeakerCertification">
+    <Key>
+      <PropertyRef Name="SpeakerCertificationId" />
+    </Key>
+    <Property Name="SpeakerCertificationId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Certification" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+</Schema>

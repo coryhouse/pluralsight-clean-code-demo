@@ -1,0 +1,72 @@
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\bin\Debug\Business Layer.dll
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\bin\Debug\Business Layer.pdb
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\bin\Debug\DataAccessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\obj\Debug\Business Layer.dll
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\obj\Debug\Business Layer.pdb
+C:\Users\chouse\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\bin\Debug\Business Layer.dll
+C:\Users\chouse\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\bin\Debug\Business Layer.pdb
+C:\Users\chouse\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\bin\Debug\DataAccessLayer.dll
+C:\Users\chouse\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\bin\Debug\DataAccessLayer.pdb
+C:\Users\chouse\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chouse\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\obj\Debug\Business Layer.dll
+C:\Users\chouse\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\obj\Debug\Business Layer.pdb
+C:\Users\cohouse\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\bin\Debug\Business Layer.dll
+C:\Users\cohouse\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\bin\Debug\Business Layer.pdb
+C:\Users\cohouse\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\bin\Debug\DataAccessLayer.dll
+C:\Users\cohouse\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\bin\Debug\DataAccessLayer.pdb
+C:\Users\cohouse\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\cohouse\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\obj\Debug\Business Layer.dll
+C:\Users\cohouse\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\Business Layer\obj\Debug\Business Layer.pdb
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\Business Layer\bin\Debug\Business Layer.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\Business Layer\bin\Debug\Business Layer.pdb
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\Business Layer\bin\Debug\DataAccessLayer.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\Business Layer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\Business Layer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\Business Layer\obj\Debug\Business Layer.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\Business Layer\obj\Debug\Business Layer.pdb
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\Business Layer\bin\Debug\Business Layer.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\Business Layer\bin\Debug\Business Layer.pdb
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\Business Layer\bin\Debug\DataAccessLayer.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\Business Layer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\Business Layer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\Business Layer\obj\Debug\Business Layer.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\Business Layer\obj\Debug\Business Layer.pdb
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\Business Layer\bin\Debug\Business Layer.dll
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\Business Layer\bin\Debug\Business Layer.pdb
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\Business Layer\bin\Debug\DataAccessLayer.dll
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\Business Layer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\Business Layer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\Business Layer\obj\Debug\Business Layer.dll
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\Business Layer\obj\Debug\Business Layer.pdb
+C:\Projects\Pluralsight Demo\trunk\Clean Code\Business Layer\bin\Debug\BusinessLayer.dll
+C:\Projects\Pluralsight Demo\trunk\Clean Code\Business Layer\bin\Debug\BusinessLayer.pdb
+C:\Projects\Pluralsight Demo\trunk\Clean Code\Business Layer\obj\Debug\BusinessLayer.dll
+C:\Projects\Pluralsight Demo\trunk\Clean Code\Business Layer\obj\Debug\BusinessLayer.pdb
+C:\Projects\Pluralsight Demo\trunk\Clean Code\Business Layer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Projects\Pluralsight Demo\trunk\Clean Code\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Projects\Pluralsight Demo\trunk\Clean Code\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Projects\Pluralsight Demo\trunk\Clean Code\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Projects\Pluralsight Demo\trunk\Clean Code\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Projects\Pluralsight Demo\trunk\Clean Code\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\after\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\after\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\after\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\after\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\after\BusinessLayer\obj\Debug\BusinessLayer.pdb
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\after\BusinessLayer\bin\Debug\BusinessLayer.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\after\BusinessLayer\bin\Debug\BusinessLayer.pdb
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\after\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\after\BusinessLayer\obj\Debug\BusinessLayer.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\after\BusinessLayer\obj\Debug\BusinessLayer.pdb

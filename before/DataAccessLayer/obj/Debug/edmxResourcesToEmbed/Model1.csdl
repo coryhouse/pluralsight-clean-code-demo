@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DatabaseModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="DatabaseEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Sessions" EntityType="DatabaseModel.Session" />
+    <EntitySet Name="Speakers" EntityType="DatabaseModel.Speaker" />
+    <EntitySet Name="SpeakerCertifications" EntityType="DatabaseModel.SpeakerCertification" />
+  </EntityContainer>
+  <EntityType Name="Session">
+    <Key>
+      <PropertyRef Name="SessionId" />
+    </Key>
+    <Property Type="Int32" Name="SessionId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Name" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Description" MaxLength="500" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Speaker">
+    <Key>
+      <PropertyRef Name="SpeakerId" />
+    </Key>
+    <Property Type="Int32" Name="SpeakerId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="FirstName" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="LastName" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Email" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="YearsExperience" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="BlogUrl" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Employer" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="RegistrationDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="SpeakerCertification">
+    <Key>
+      <PropertyRef Name="SpeakerCertificationId" />
+    </Key>
+    <Property Type="Int32" Name="SpeakerCertificationId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Certification" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

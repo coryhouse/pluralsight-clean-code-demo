@@ -1,0 +1,119 @@
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\bin\PresentationLayer.dll
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\bin\PresentationLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\bin\EntityFramework.dll
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\bin\EntityFramework.xml
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.dll
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\bin\Business Layer.dll
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\bin\DataAccessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\bin\Business Layer.pdb
+C:\Users\Cory\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\bin\DataAccessLayer.pdb
+C:\Users\chouse\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\bin\PresentationLayer.dll
+C:\Users\chouse\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\bin\PresentationLayer.pdb
+C:\Users\chouse\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\bin\Business Layer.dll
+C:\Users\chouse\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\bin\DataAccessLayer.dll
+C:\Users\chouse\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\bin\Business Layer.pdb
+C:\Users\chouse\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\bin\EntityFramework.xml
+C:\Users\chouse\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\bin\DataAccessLayer.pdb
+C:\Users\chouse\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chouse\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.dll
+C:\Users\chouse\Dropbox\Presentations\2012 - 04 Clean Code\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\PresentationLayer\bin\PresentationLayer.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\PresentationLayer\bin\PresentationLayer.pdb
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\PresentationLayer\bin\Business Layer.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\PresentationLayer\bin\EntityFramework.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\PresentationLayer\bin\DataAccessLayer.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\PresentationLayer\bin\Business Layer.pdb
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\PresentationLayer\bin\EntityFramework.xml
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\PresentationLayer\bin\DataAccessLayer.pdb
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 08 Clean Code\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\PresentationLayer\bin\PresentationLayer.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\PresentationLayer\bin\PresentationLayer.pdb
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\PresentationLayer\bin\Business Layer.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\PresentationLayer\bin\EntityFramework.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\PresentationLayer\bin\DataAccessLayer.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\PresentationLayer\bin\Business Layer.pdb
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\PresentationLayer\bin\EntityFramework.xml
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\PresentationLayer\bin\DataAccessLayer.pdb
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.dll
+C:\Users\Cory\Google Drive\Dropbox Folder\Dropbox\Presentations\2012 - 10 Clean Code\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\PresentationLayer\bin\PresentationLayer.dll
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\PresentationLayer\bin\PresentationLayer.pdb
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\PresentationLayer\bin\Business Layer.dll
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\PresentationLayer\bin\EntityFramework.dll
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\PresentationLayer\bin\DataAccessLayer.dll
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\PresentationLayer\bin\Business Layer.pdb
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\PresentationLayer\bin\EntityFramework.xml
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\PresentationLayer\bin\DataAccessLayer.pdb
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.dll
+C:\Users\Cory\Documents\GitHub\CleanCodePresentation\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Projects\Pluralsight Demo\Clean Code\PresentationLayer\bin\PresentationLayer.dll
+C:\Projects\Pluralsight Demo\Clean Code\PresentationLayer\bin\PresentationLayer.pdb
+C:\Projects\Pluralsight Demo\Clean Code\PresentationLayer\bin\Business Layer.dll
+C:\Projects\Pluralsight Demo\Clean Code\PresentationLayer\bin\EntityFramework.dll
+C:\Projects\Pluralsight Demo\Clean Code\PresentationLayer\bin\DataAccessLayer.dll
+C:\Projects\Pluralsight Demo\Clean Code\PresentationLayer\bin\Business Layer.pdb
+C:\Projects\Pluralsight Demo\Clean Code\PresentationLayer\bin\EntityFramework.xml
+C:\Projects\Pluralsight Demo\Clean Code\PresentationLayer\bin\DataAccessLayer.pdb
+C:\Projects\Pluralsight Demo\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Projects\Pluralsight Demo\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.dll
+C:\Projects\Pluralsight Demo\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Projects\Pluralsight Demo\trunk\Clean Code\PresentationLayer\bin\Database.sdf
+C:\Projects\Pluralsight Demo\trunk\Clean Code\PresentationLayer\bin\PresentationLayer.dll
+C:\Projects\Pluralsight Demo\trunk\Clean Code\PresentationLayer\bin\PresentationLayer.pdb
+C:\Projects\Pluralsight Demo\trunk\Clean Code\PresentationLayer\bin\BusinessLayer.dll
+C:\Projects\Pluralsight Demo\trunk\Clean Code\PresentationLayer\bin\DataAccessLayer.dll
+C:\Projects\Pluralsight Demo\trunk\Clean Code\PresentationLayer\bin\EntityFramework.dll
+C:\Projects\Pluralsight Demo\trunk\Clean Code\PresentationLayer\bin\BusinessLayer.pdb
+C:\Projects\Pluralsight Demo\trunk\Clean Code\PresentationLayer\bin\DataAccessLayer.pdb
+C:\Projects\Pluralsight Demo\trunk\Clean Code\PresentationLayer\bin\EntityFramework.xml
+C:\Projects\Pluralsight Demo\trunk\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Projects\Pluralsight Demo\trunk\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.dll
+C:\Projects\Pluralsight Demo\trunk\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\PresentationLayer\bin\Database.sdf
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\PresentationLayer\bin\PresentationLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\PresentationLayer\bin\PresentationLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\PresentationLayer\bin\BusinessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\PresentationLayer\bin\DataAccessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\PresentationLayer\bin\EntityFramework.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\PresentationLayer\bin\BusinessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\PresentationLayer\bin\DataAccessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\PresentationLayer\bin\EntityFramework.xml
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\PresentationLayer\bin\Database.sdf
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\PresentationLayer\bin\PresentationLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\PresentationLayer\bin\PresentationLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\PresentationLayer\bin\BusinessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\PresentationLayer\bin\DataAccessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\PresentationLayer\bin\EntityFramework.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\PresentationLayer\bin\BusinessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\PresentationLayer\bin\DataAccessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\PresentationLayer\bin\EntityFramework.xml
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\PresentationLayer\obj\Debug\PresentationLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\PresentationLayer\obj\Debug\PresentationLayer.pdb
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\PresentationLayer\obj\Debug\PresentationLayer.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\PresentationLayer\obj\Debug\PresentationLayer.pdb
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\PresentationLayer\bin\Database.sdf
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\PresentationLayer\bin\PresentationLayer.dll.config
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\PresentationLayer\bin\PresentationLayer.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\PresentationLayer\bin\PresentationLayer.pdb
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\PresentationLayer\bin\BusinessLayer.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\PresentationLayer\bin\DataAccessLayer.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\PresentationLayer\bin\System.Web.Helpers.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\PresentationLayer\bin\System.Web.Mvc.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\PresentationLayer\bin\System.Web.WebPages.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\PresentationLayer\bin\System.Web.Razor.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\PresentationLayer\bin\System.Web.WebPages.Razor.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\PresentationLayer\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\PresentationLayer\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\PresentationLayer\bin\BusinessLayer.pdb
+\\Mac\Dropbox\writing-clean-code-humans\8-writing-clean-code-humans-m8-demo-exercise-files\demos\before\PresentationLayer\bin\DataAccessLayer.pdb
